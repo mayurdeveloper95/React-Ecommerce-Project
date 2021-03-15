@@ -1,0 +1,12 @@
+.ui.pagination.menu .item
+{
+    color:blueviolet!important;
+}
+
+.ui.pagination.menu .active.item
+{
+    color:white!important;
+    background-color:blueviolet!important;
+    border:none!important;
+    border-radius:none!important;
+}

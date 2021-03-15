@@ -1,0 +1,44 @@
+.profilebg
+{
+height:350px;
+background-position: center!important;
+background-size: cover!important;
+background-repeat: no-repeat!important;
+}
+
+.ui.placeholder.segment
+{
+    border-color:transparent!important;
+    box-shadow:none!important;
+    border-radius:0px!important;
+    border:0px!important;
+    padding: 0px 0px!important;
+}
+
+.bgcolor
+{
+    background-color: #0000ff26!important;
+    height:350px;
+}
+
+#root > div:nth-child(3) > div > div > div.stretched.twelve.wide.column > div
+{
+    padding-bottom: 100px!important;
+}
+
+
+#root > div:nth-child(3) > div > div > div.four.wide.column > div > a
+{
+    color:black!important;
+}
+
+#root > div:nth-child(3) > div > div > div.four.wide.column > div
+{
+    border: 1px solid #ebe5e5;
+}
+
+#root > div:nth-child(3) > div > div > div.four.wide.column > div > a.active.item
+{
+    background-color: #7525c0!important;
+    color: white!important;
+}

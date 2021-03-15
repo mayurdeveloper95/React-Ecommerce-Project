@@ -1,0 +1,67 @@
+body {
+    -webkit-font-smoothing: antialiased;
+    -moz-font-smoothing: grayscale;
+  }
+  
+  #root > div > div.ui.padded.grid.tablet.computer.only > div
+  {
+    background-color: blueviolet;
+  }
+
+  .ui.attached.segment
+  {
+    border:none!important;
+  }
+
+  #root > div > div.App > div > div > div.three.wide.column
+  {
+    background-color:#342F4C;
+    padding-top: 40px;
+    padding-left: 0px!important;
+    padding-right: 0px!important;
+  }
+  #root > div > div.App > div > div > div.three.wide.column > div > a
+  {
+    background-color:#342F4C;
+    color:white;
+    padding: 15px 20px!important;
+    border-radius: 0px!important;
+  }
+  .ui.fluid.vertical.menu
+  {
+  background: none;
+    border: none;
+  }
+  .ui.vertical.menu .item:hover,.ui.vertical.menu .item.active:hover{
+    background-color:white!important;
+    color: black!important;
+    border: none !important;
+    border-radius: 0px!important;
+  }
+  .ui.vertical.menu .item.active
+  {
+    background-color:white!important;
+    color: black!important;
+    border: none !important;
+    border-radius:0px!important;
+  }
+
+.stretched.thirteen.wide.column
+{
+  padding: 30px 30px;
+  min-height: 93.3vh;
+}
+
+#root > div > div.App > div > div > div.three.wide.column > div > a > i ,#root > div:nth-child(3) > div > div > div.four.wide.column > div > a > i{
+    width: 1.18em;
+    float: left;
+    margin: 0 12px 0 0px;
+}
+
+#root > div > div.App > div > div
+{
+  margin-top: 3rem;
+    margin-bottom: 0rem;
+    margin-left: 0em;
+    margin-right: 0rem;
+}

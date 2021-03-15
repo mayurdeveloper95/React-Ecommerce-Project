@@ -1,0 +1,41 @@
+.price > .ui.blue.big.tag.label
+{
+    text-decoration-color:black!important;
+    text-decoration-thickness: 2px!important;
+}
+
+.ofprice
+{
+    font-weight:bold;
+    color:blue;
+    margin-top:0px;
+    margin-left:20px;
+    font-size:20px;
+}
+
+.ui.bulleted.list>.item:before {
+    font-size: 35px!important;
+    margin-top:-2px!important;
+}
+
+.tabdata > div.item
+{
+    line-height: 32px!important;
+}
+
+#root > div.ui.container > div > div:nth-child(2) > div > div:nth-child(3) > div > div.ui.menu > a
+{
+    color:black!important;
+}
+
+#root > div.ui.container > div > div:nth-child(2) > div > div:nth-child(3) > div > div.ui.menu > a.active.item
+{
+    color:white!important;
+    background-color: cornflowerblue!important;
+}
+
+
+#root > div.ui.container > div > div:nth-child(2) > div > div:nth-child(1) > div:nth-child(2) > div > div.ui.three.column.grid > div > div > h6
+{
+    font-size:12.5px!important;
+}

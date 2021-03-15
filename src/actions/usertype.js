@@ -1,0 +1,10 @@
+export const ALL_USER= "ALL_USER";
+export const USER_SIGNUP = "USER_SIGNUP";
+export const USER_LOGIN = "USER_LOGIN";
+export const FORGOT_PASSWORD = "FORGOT_PASSWORD";
+export const RESET_PASSWORD = "RESET_PASSWORD";
+export const DELETE_USER= "DELETE_USER";
+export const USER_DATA= "USER_DATA";
+export const UPDATE_USER = "UPDATE_USER";
+export const ERROR = "ERROR";
+export const USER_LOGOUT = "USER_LOGOUT";
